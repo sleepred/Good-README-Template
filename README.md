@@ -1,4 +1,4 @@
-![LOGO](./docs/images/logo-w200.png)
+![LOGO](./docs/images/logo.png)
 
 [![Englsh](https://img.shields.io/badge/language-English-orange.svg)](README.md) [![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](README_kr.md)
 
