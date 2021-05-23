@@ -1,6 +1,6 @@
 ![LOGO](./docs/images/logo.png)
 
-[![Englsh](https://img.shields.io/badge/language-English-orange.svg)](README.md) [![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](README_kr.md)
+[![Englsh](https://img.shields.io/badge/language-English-orange.svg)](README.md) [![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](README_kr.md) [![Japanese](https://img.shields.io/badge/language-Japanese-red.svg)](README_jp.md)
 
 # 프로젝트 이름
 

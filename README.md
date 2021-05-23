@@ -43,15 +43,16 @@
   </p>
 </p>
 
-[![Englsh](https://img.shields.io/badge/language-English-orange.svg)](README.md) [![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](README_kr.md)
+[![Englsh](https://img.shields.io/badge/language-English-orange.svg)](README.md) [![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](README_kr.md) [![Japanese](https://img.shields.io/badge/language-Japanese-red.svg)](README_jp.md)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#project-title">Project Title</a>
       <ul>
+        <li><a href="#description">Description</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -63,7 +64,8 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#help">Help</a></li>
+    <li><a href="#version-history">Version History</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -83,17 +85,18 @@ An in-depth paragraph about your project and overview of use.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-### Dependencies
+### Prerequisites
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
 
-### Installing
+### Installation
 
 * How/where to download your program
 * Any modifications needed to be made to files/folders
 
-### Executing program
+<!-- USAGE EXAMPLES -->
+### Usage
 
 * How to run the program
 * Step-by-step bullets
@@ -101,7 +104,6 @@ An in-depth paragraph about your project and overview of use.
 code blocks for commands
 ```
 
-<!-- USAGE EXAMPLES -->
 ## Help
 
 Any advise for common problems or issues.
