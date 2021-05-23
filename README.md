@@ -45,7 +45,33 @@
 
 [![Englsh](https://img.shields.io/badge/language-English-orange.svg)](README.md) [![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](README_kr.md)
 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
+<!-- ABOUT THE PROJECT -->
 # Project Title
 
 Simple overview of use/purpose.
@@ -54,6 +80,7 @@ Simple overview of use/purpose.
 
 An in-depth paragraph about your project and overview of use.
 
+<!-- GETTING STARTED -->
 ## Getting Started
 
 ### Dependencies
@@ -74,19 +101,13 @@ An in-depth paragraph about your project and overview of use.
 code blocks for commands
 ```
 
+<!-- USAGE EXAMPLES -->
 ## Help
 
 Any advise for common problems or issues.
 ```
 command to run if program contains helper info
 ```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
 
@@ -96,9 +117,39 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 * 0.1
     * Initial Release
 
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+<!-- LICENSE -->
 ## License
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
+
+
+## Contact
+
+Contributors names and contact info
+
+ex. Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+
+ex. Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+
+
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgments
