@@ -43,7 +43,7 @@
   </p>
 </p>
 
-[![Englsh](https://img.shields.io/badge/language-English-orange.svg)](README.md) [![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](README_kr.md) [![Japanese](https://img.shields.io/badge/language-Japanese-red.svg)](README_jp.md)
+[![Englsh](https://img.shields.io/badge/language-English-orange.svg?style=for-the-badge)](README.md) [![Korean](https://img.shields.io/badge/language-Korean-blue.svg?style=for-the-badge)](README_kr.md) [![Japanese](https://img.shields.io/badge/language-Japanese-red.svg?style=for-the-badge)](README_jp.md)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
